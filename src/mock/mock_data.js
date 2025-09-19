@@ -154,6 +154,82 @@ export const mockData = {
           "url": "https://www.pasyun.com/",
           "description": "ipv6机器",
           "icon": "/sitelogo/www.pasyun.com.ico"
+        },
+        {
+          "id": "site-1758296919746",
+          "name": "Render",
+          "url": "https://dashboard.render.com/",
+          "description": "一个docker容器部署平台，（会暂停",
+          "icon": ""
+        },
+        {
+          "id": "site-1758297028330",
+          "name": "Northflank",
+          "url": "https://app.northflank.com/",
+          "description": "全栈开发平台",
+          "icon": "https://app.northflank.com/host/northflank/logo.svg"
+        },
+        {
+          "id": "site-1758297129370",
+          "name": "supaBase数据库",
+          "url": "https://supabase.com/",
+          "description": "postgrel数据库",
+          "icon": "https://supabase.com/dashboard/img/supabase-logo.svg"
+        },
+        {
+          "id": "site-1758297200860",
+          "name": "avien数据库",
+          "url": "https://console.aiven.io/",
+          "description": "多数据库服务平台",
+          "icon": "https://cdn.cookielaw.org/logos/96faa83e-03f1-44ca-9225-0df6975631f2/0b3e7c6c-bec3-4501-b4c3-7d14478f6f42/3959cf16-b959-4864-ab50-ce11abcc9786/aiven-crab_RGB.png"
+        },
+        {
+          "id": "site-1758297350638",
+          "name": "huggingface",
+          "url": "https://huggingface.co/",
+          "description": "机器学习平台",
+          "icon": "https://huggingface.co/front/assets/huggingface_logo-noborder.svg"
+        },
+        {
+          "id": "site-1758297430766",
+          "name": "TIDB数据库",
+          "url": "https://tidbcloud.com/",
+          "description": "国产mysql数据库",
+          "icon": "https://webapi.tidbcloud.com/static/imgs/tidb-cloud-logo-v2.dark.svg"
+        },
+        {
+          "id": "site-1758297501143",
+          "name": "SQLhub数据库",
+          "url": "https://www.sqlpub.com/",
+          "description": "一个免费mysql数据库",
+          "icon": "https://www.sqlpub.com/logo.svg"
+        },
+        {
+          "id": "site-1758297755780",
+          "name": "mongoDB数据库",
+          "url": "https://cloud.mongodb.com/",
+          "description": "mongoDB数据库"
+        },
+        {
+          "id": "site-1758297906044",
+          "name": "koyeb",
+          "url": "https://app.koyeb.com/",
+          "description": "也是一个docker服务",
+          "icon": "https://www.gravatar.com/avatar/2b51aa624b83e6ee280a1c6d40abfbf5?default=retro&size=48"
+        },
+        {
+          "id": "site-1758297984998",
+          "name": "Claw cloud run",
+          "url": "https://ap-northeast-1.run.claw.cloud",
+          "description": "一个云容器部署平台",
+          "icon": "https://ap-northeast-1.run.claw.cloud/logo.svg"
+        },
+        {
+          "id": "site-1758298079118",
+          "name": "Leaflow",
+          "url": "https://leaflow.net/",
+          "description": "一个docker部署平台",
+          "icon": "https://leaflow.net/build/assets/Logo-COIKldAv.png"
         }
       ]
     },
