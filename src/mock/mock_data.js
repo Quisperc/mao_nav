@@ -230,6 +230,12 @@ export const mockData = {
           "url": "https://leaflow.net/",
           "description": "一个docker部署平台",
           "icon": "https://leaflow.net/build/assets/Logo-COIKldAv.png"
+        },
+        {
+          "id": "site-1758299113972",
+          "name": "netlify",
+          "url": "https://app.netlify.com/",
+          "description": "云函数部署平台"
         }
       ]
     },
