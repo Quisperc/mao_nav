@@ -7,6 +7,20 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
+          "id": "site-1758296020894",
+          "name": "Civer主页",
+          "url": "https://www.civer.cn",
+          "description": "个人站点中心",
+          "icon": "https://www.civer.cn/images/icon/logo.png"
+        },
+        {
+          "id": "site-1758295883813",
+          "name": "朝暮小栈",
+          "url": "https://blog.civer.cn",
+          "description": "我的个人技术开发小栈",
+          "icon": "https://blog.civer.cn/images/logo/logo.webp"
+        },
+        {
           "id": "site-1752857783656",
           "name": "OpenAI",
           "url": "https://chatgpt.com",
@@ -479,9 +493,34 @@ export const mockData = {
           "icon": "/sitelogo/www.feishu.cn.ico"
         }
       ]
+    },
+    {
+      "id": "category-1758296097480",
+      "icon": "📁",
+      "name": "个人站点",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1758296292914",
+          "name": "音乐API",
+          "url": "https://meting-api.aoxc.top",
+          "description": "meting-API音乐，为小栈和主页提供音乐支持"
+        },
+        {
+          "id": "site-1758296062479",
+          "name": "Open网盘",
+          "url": "https://revs.civer.cn",
+          "description": "个人网盘"
+        },
+        {
+          "id": "site-1758296410882",
+          "name": "邮箱服务",
+          "url": "https://qiye.aliyun.com/",
+          "description": "基于阿里云企业邮箱的服务",
+          "icon": "https://qiye.aliyun.com/static/0.2.9/images/forNetCN/logo.png"
+        }
+      ]
     }
   ],
-  "title": "Civer导航",
-  "search": "bing",
-  "_fileSha": "3e32499fd88fe787537b9ce08b18612375673d4f"
+  "title": "Civer导航"
 }
