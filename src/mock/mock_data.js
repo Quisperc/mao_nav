@@ -606,6 +606,20 @@ export const mockData = {
           "name": "twikoo",
           "url": "https://twikoo.civer.cn",
           "description": "twikoo评论系统"
+        },
+        {
+          "id": "site-1758618323964",
+          "name": "CertD证书管理",
+          "url": "https://ssls.civer.cn",
+          "description": "自动化证书管理",
+          "icon": "https://ssls.civer.cn/static/images/logo/logo.svg"
+        },
+        {
+          "id": "site-1758618413509",
+          "name": "MaxKey",
+          "url": "https://auth.civer.cn/maxkey",
+          "description": "统一登录平台",
+          "icon": "https://auth.civer.cn/maxkey/assets/logo.png"
         }
       ]
     }
