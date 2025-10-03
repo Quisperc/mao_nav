@@ -54,6 +54,19 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
+        },
+        {
+          "id": "site-1759497147774",
+          "name": "Napcat",
+          "url": "https://bota.civer.cn",
+          "description": "Napcat机器人",
+          "icon": "https://bota.civer.cn/webui/assets/logo-C2MGgWT2.png"
+        },
+        {
+          "id": "site-1759497284264",
+          "name": "NginxUI",
+          "url": "https://ngui.civer.cn",
+          "description": "nginx代理webui"
         }
       ]
     },
@@ -620,6 +633,20 @@ export const mockData = {
           "url": "https://auth.civer.cn/maxkey",
           "description": "统一登录平台",
           "icon": "https://auth.civer.cn/maxkey/assets/logo.png"
+        },
+        {
+          "id": "site-1759496957005",
+          "name": "哪吒面板",
+          "url": "https://nadash.civer.cn",
+          "description": "监控服务器状态",
+          "icon": "https://nadash.civer.cn/apple-touch-icon.png"
+        },
+        {
+          "id": "site-1759497091526",
+          "name": "QQ机器人",
+          "url": "https://botdash.civer.cn",
+          "description": "noneBot QQ机器人",
+          "icon": "https://botdash.civer.cn/assets/lib/assets/logo.png"
         }
       ]
     }
