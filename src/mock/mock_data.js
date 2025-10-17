@@ -67,6 +67,12 @@ export const mockData = {
           "name": "NginxUI",
           "url": "https://ngui.civer.cn",
           "description": "nginx代理webui"
+        },
+        {
+          "id": "site-1760698200759",
+          "name": "komari监控",
+          "url": "https://komari.civer.cn",
+          "description": "监控个人服务器状态"
         }
       ]
     },
@@ -647,6 +653,25 @@ export const mockData = {
           "url": "https://botdash.civer.cn",
           "description": "noneBot QQ机器人",
           "icon": "https://botdash.civer.cn/assets/lib/assets/logo.png"
+        },
+        {
+          "id": "site-1760698058158",
+          "name": "彩虹聚合DNS",
+          "url": "https://dns.civer.cn",
+          "description": "便捷管理个人DNS与证书配置"
+        },
+        {
+          "id": "site-1760698095485",
+          "name": "AstrBot",
+          "url": "https://ast.civer.cn",
+          "description": "AstrBot管理页",
+          "icon": ""
+        },
+        {
+          "id": "site-1760698159630",
+          "name": "个人wiki站",
+          "url": "https://wiki.civer.cn",
+          "description": "我的个人wiki站，用来做一些说明"
         }
       ]
     }
