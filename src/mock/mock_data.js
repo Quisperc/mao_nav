@@ -11,7 +11,7 @@ export const mockData = {
           "name": "Civer主页",
           "url": "https://www.civer.cn",
           "description": "个人站点中心",
-          "icon": "https://www.civer.cn/images/icon/logo.png"
+          "icon": "https://www.faviconextractor.com/favicon/www.civer.cn"
         },
         {
           "id": "site-1758295883813",
@@ -592,7 +592,8 @@ export const mockData = {
           "id": "site-1758296062479",
           "name": "Open网盘",
           "url": "https://revs.civer.cn",
-          "description": "个人网盘"
+          "description": "个人网盘",
+          "icon": "https://www.faviconextractor.com/favicon/revs.civer.cn"
         },
         {
           "id": "site-1758296410882",
@@ -605,7 +606,8 @@ export const mockData = {
           "id": "site-1758299749796",
           "name": "twikoo",
           "url": "https://twikoo.civer.cn",
-          "description": "twikoo评论系统"
+          "description": "twikoo评论系统",
+          "icon": "https://www.faviconextractor.com/favicon/twikoo.civer.cn"
         },
         {
           "id": "site-1758618323964",
@@ -615,56 +617,39 @@ export const mockData = {
           "icon": "https://ssls.civer.cn/static/images/logo/logo.svg"
         },
         {
-          "id": "site-1758618413509",
-          "name": "MaxKey",
-          "url": "https://auth.civer.cn/maxkey",
-          "description": "统一登录平台",
-          "icon": "https://auth.civer.cn/maxkey/assets/logo.png"
-        },
-        {
-          "id": "site-1759496957005",
-          "name": "哪吒面板",
-          "url": "https://nadash.civer.cn",
-          "description": "监控服务器状态",
-          "icon": "https://nadash.civer.cn/apple-touch-icon.png"
-        },
-        {
-          "id": "site-1759497091526",
-          "name": "QQ机器人",
-          "url": "https://botdash.civer.cn",
-          "description": "noneBot QQ机器人",
-          "icon": "https://botdash.civer.cn/assets/lib/assets/logo.png"
-        },
-        {
           "id": "site-1760698058158",
           "name": "彩虹聚合DNS",
           "url": "https://dns.civer.cn",
-          "description": "便捷管理个人DNS与证书配置"
+          "description": "便捷管理个人DNS与证书配置",
+          "icon": "https://www.faviconextractor.com/favicon/dns.civer.cn"
         },
         {
           "id": "site-1760698095485",
           "name": "AstrBot",
           "url": "https://ast.civer.cn",
           "description": "AstrBot管理页",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/ast.civer.cn"
         },
         {
           "id": "site-1760698159630",
           "name": "个人wiki站",
           "url": "https://wiki.civer.cn",
-          "description": "我的个人wiki站，用来做一些说明"
+          "description": "我的个人wiki站，用来做一些说明",
+          "icon": "https://www.faviconextractor.com/favicon/wiki.civer.cn"
         },
         {
           "id": "site-1761628662037",
           "name": "盘搜",
           "url": "https://psearch.civer.cn",
-          "description": "各类网盘（Telegram、百度）资源搜索器"
+          "description": "各类网盘（Telegram、百度）资源搜索器",
+          "icon": "https://www.faviconextractor.com/favicon/psearch.civer.cn"
         },
         {
           "id": "site-1761628918943",
           "name": "小鸡Dpanel",
           "url": "https://dpanel.civer.cn",
-          "description": "小鸡容器可视化管理平台"
+          "description": "小鸡容器可视化管理平台",
+          "icon": "https://www.faviconextractor.com/favicon/dpanel.civer.cn"
         },
         {
           "id": "site-1759497147774",
@@ -677,13 +662,15 @@ export const mockData = {
           "id": "site-1760698200759",
           "name": "komari监控",
           "url": "https://komari.civer.cn",
-          "description": "监控个人服务器状态"
+          "description": "监控个人服务器状态",
+          "icon": "https://www.faviconextractor.com/favicon/komari.civer.cn"
         },
         {
           "id": "site-1759497284264",
           "name": "NginxUI",
           "url": "https://ngui.civer.cn",
-          "description": "nginx代理webui"
+          "description": "nginx代理webui",
+          "icon": "https://www.faviconextractor.com/favicon/ngui.civer.cn"
         }
       ]
     }
