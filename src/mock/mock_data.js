@@ -54,25 +54,6 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
-        },
-        {
-          "id": "site-1759497147774",
-          "name": "Napcat",
-          "url": "https://bota.civer.cn",
-          "description": "Napcat机器人",
-          "icon": "https://bota.civer.cn/webui/assets/logo-C2MGgWT2.png"
-        },
-        {
-          "id": "site-1759497284264",
-          "name": "NginxUI",
-          "url": "https://ngui.civer.cn",
-          "description": "nginx代理webui"
-        },
-        {
-          "id": "site-1760698200759",
-          "name": "komari监控",
-          "url": "https://komari.civer.cn",
-          "description": "监控个人服务器状态"
         }
       ]
     },
@@ -684,6 +665,25 @@ export const mockData = {
           "name": "小鸡Dpanel",
           "url": "https://dpanel.civer.cn",
           "description": "小鸡容器可视化管理平台"
+        },
+        {
+          "id": "site-1759497147774",
+          "name": "Napcat",
+          "url": "https://bota.civer.cn",
+          "description": "Napcat机器人",
+          "icon": "https://bota.civer.cn/webui/assets/logo-C2MGgWT2.png"
+        },
+        {
+          "id": "site-1760698200759",
+          "name": "komari监控",
+          "url": "https://komari.civer.cn",
+          "description": "监控个人服务器状态"
+        },
+        {
+          "id": "site-1759497284264",
+          "name": "NginxUI",
+          "url": "https://ngui.civer.cn",
+          "description": "nginx代理webui"
         }
       ]
     }
