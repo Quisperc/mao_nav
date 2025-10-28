@@ -672,6 +672,18 @@ export const mockData = {
           "name": "个人wiki站",
           "url": "https://wiki.civer.cn",
           "description": "我的个人wiki站，用来做一些说明"
+        },
+        {
+          "id": "site-1761628662037",
+          "name": "盘搜",
+          "url": "https://psearch.civer.cn",
+          "description": "各类网盘（Telegram、百度）资源搜索器"
+        },
+        {
+          "id": "site-1761628918943",
+          "name": "小鸡Dpanel",
+          "url": "https://dpanel.civer.cn",
+          "description": "小鸡容器可视化管理平台"
         }
       ]
     }
